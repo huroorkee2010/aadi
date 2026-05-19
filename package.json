@@ -1,0 +1,27 @@
+{
+  "name": "voice-ai-admission-assistant",
+  "version": "1.0.0",
+  "description": "A Voice AI Admission Assistant built with Next.js, TypeScript, Tailwind CSS, and OpenAI API.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "framer-motion": "^10.18.0",
+    "lucide-react": "^1.16.0",
+    "next": "15.0.0",
+    "openai": "^4.104.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "devDependencies": {
+    "@types/css-modules": "^1.0.5",
+    "@types/react": "19.2.14",
+    "autoprefixer": "^10.5.0",
+    "postcss": "^8.5.14",
+    "tailwindcss": "^3.4.19",
+    "typescript": "^5.0.0"
+  }
+}
