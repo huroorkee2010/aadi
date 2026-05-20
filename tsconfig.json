@@ -32,7 +32,7 @@
     "allowSyntheticDefaultImports": true,
     
 
-    "baseUrl": ".",
+    //"baseUrl": ".",
     "paths": {
       "@/*": [
         "./*"
